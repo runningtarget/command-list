@@ -2,16 +2,16 @@
 * `~` : This symbol means "home" on the UNIX command line.
 * `/` : This symbol means "root", the ultimate parent directory.
 * `whoami` : This makes the terminal output the current user name.
-* `pwd` : 
+* `pwd` : print web directory
 * `cd` : change directory
 * `ls` :  list files
-* `cd ..` :  change direction (forgot ..)
+* `cd ..` :  change directory back up one folder
 * `mkdir` : make directory
-* `touch` : change file timestamp
-* `cat` : link files and print on the standard output
-* `.` :
+* `touch` : create file
+* `cat` : print on the standard output
+* `.` : this/here
 * `rm` : remove file
-* `rm -rf` :
+* `rm -rf` : remove recursively all folders and files
 * `man` : help manual
 * rmdir : remove folder
 
@@ -19,7 +19,7 @@ website with more command list- http://www.mediacollege.com/linux/command/linux-
 
 # Basic Git commands
 * `git init` : create new local repository
-* `git add .` : add files
+* `git add .` : add all files
 * `git add hello.txt` : add hello text
 * `git status` : list the files you've changed and those you still need to add
 * `git commit -m 'created hello.txt` : commit change to head - with the note created hello txt
